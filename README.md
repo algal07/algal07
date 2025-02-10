@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @algal07
+- 👋 Hi, I’m Ali!
 - 👀 I’m interested in neural networks, invasive species dynamics, disease ecology, mapping, etc.
 - 🌱 PhD Student in Integrated Physiology and Pharmacology
 - 💞️ I’m looking to collaborate and learn ;P
-- 📫 
+- 📫 acg14747@uga.edu
 - 😄 Pronouns: she/her
 
 <!---
